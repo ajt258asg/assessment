@@ -50,7 +50,8 @@ const answers = [
 '{uN}さんはパン屋さん。',
 '{uN}さんはスポーツ選手。',
 '{uN}さんはアーティスト。',
-'{uN}さんはYouTuber。'
+'{uN}さんはYouTuber。',
+'{uN}さんは美容師。'
 ];
 /*
 @param {string} uN
