@@ -73,5 +73,5 @@ console.assert(
 );
 console.assert(
     as('小谷')===as('小谷'),
-    '処理が正しくありません'
+    '処理が正しくありませ'
 );
